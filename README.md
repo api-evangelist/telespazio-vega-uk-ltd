@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Telespazio VEGA UK Ltd is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.telespazio-vega.com/
+Telespazio VEGA UK Ltd provides satellite communications, data services, and aerospace solutions in the United Kingdom, supporting both commercial and governmental customers with advanced space-based technologies and integrated ground infrastructure. The company leverages the broader Telespazio group expertise to deliver end‑to‑end services ranging from satellite operations to data analytics, ensuring reliable connectivity and innovative solutions for a variety of sectors.
+
+**Areas:** Company · Satellite · Communications · Aerospace · UK
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://www.telespazio-vega.com/)
+- [Changelog](https://github.com/EOEPCA/deployment-guide/releases/tag/eoepca-2.0)
+- [Security](http://telespazio.co.uk/en/ground-systems/security)
+- [Privacy policy](https://telespazio.co.uk/en/privacy-policy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/telespazio-vega-uk-ltd/](https://apis.io/providers/telespazio-vega-uk-ltd/).
